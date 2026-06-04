@@ -4,511 +4,54 @@
   "created_by": "xavlt",
   "mods": [
     {
-      "name": "BaseLib",
-      "version": "v3.1.8",
+      "name": "RegentCardsAnimeRework",
+      "version": "v0.6",
       "source": null,
-      "hash": "047b5088c81ffed28c54b5d5088150c73c36bac471505aaf6df7d976a27deaf3",
+      "hash": "eb9f09774d4c069a4c0c9dced8e41a263c31c42a791515efde21f25779938b29",
       "files": [
-        "BaseLib\\BaseLib.dll",
-        "BaseLib\\BaseLib.json",
-        "BaseLib\\BaseLib.pck"
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.dll",
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.json",
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.pck"
       ],
-      "folder_name": "BaseLib",
-      "mod_id": "BaseLib",
+      "folder_name": "RegentCardsAnimeRework",
+      "mod_id": "RegentCardsAnimeRework",
       "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_44122cba.zip",
-      "bundle_sha256": "44122cba5b46ee0cbdc4139ff2490b7ba7b438cee10c7cd8a251a660805d02d4"
+      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6_e3370fcc.zip",
+      "bundle_sha256": "e3370fcca8d5bd4c16b53f39c58752f81f5963a8719b735f4dd70d9d95f798b3"
     },
     {
-      "name": "Beta Art Toggle",
-      "version": "v0.1.1",
+      "name": "Booba Necrobinder Mod",
+      "version": "v1.0.7",
       "source": null,
-      "hash": "abce22a2197b5f9e0006f8625e7a1ec69e34f2d6bd12e6a87d9441f1abeed5c0",
+      "hash": "9b95a3c4635a5e2b51e963314435d0f8cf35f1ced22b213d87e82797f533cde0",
       "files": [
-        "BetaArt\\BetaArt.json",
-        "BetaArt\\BetaArt.dll"
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.dll",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.json",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.pck"
       ],
-      "folder_name": "BetaArt",
-      "mod_id": "BetaArt",
+      "folder_name": "Booba-Necrobinder-Mod",
+      "mod_id": "Booba-Necrobinder-Mod",
       "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Beta_Art_Toggle_v0.1.1_0406c08b.zip",
-      "bundle_sha256": "0406c08b37fde06235bd7483a5d6a33030e9847972942f9bd7956220d680fb72"
+      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Booba_Necrobinder_Mod_v1.0.7_7e0e2cc7.zip",
+      "bundle_sha256": "7e0e2cc75b4c3014581dcc8e75f7f8d2ca8a7e7837b37fb7a29ffd4b94b14313"
     },
     {
-      "name": "BetterSpire2",
-      "version": "v1.82.3",
-      "source": null,
-      "hash": "bade1c0a8d4d2a410c1af11be0888df43d09f02d8e6226972c9ec7264dfc4526",
-      "files": [
-        "BetterSpire2\\BetterSpire2.json",
-        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
-        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
-        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
-        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
-        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
-        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
-        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
-        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
-        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
-        "BetterSpire2\\BetterSpire2_localization\\README.txt",
-        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
-        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
-        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
-        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
-        "BetterSpire2\\BetterSpire2_localization\\zhs.lang",
-        "BetterSpire2\\BetterSpire2.dll"
-      ],
-      "folder_name": "BetterSpire2",
-      "mod_id": "BetterSpire2",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_2eab394c.zip",
-      "bundle_sha256": "2eab394caf20f644f5a946232423f743f17157b9e5a7591c998553b484886e3d"
-    },
-    {
-      "name": "Burning Mod",
-      "version": "v0.2.0",
-      "source": null,
-      "hash": "67a37d46b31b428b2363965fd9cc613bb754b0ce581e83eb6424a5c475a22ced",
-      "files": [
-        "BurningMod\\BurningMod.dll",
-        "BurningMod\\BurningMod.pck",
-        "BurningMod\\BurningMod.json"
-      ],
-      "folder_name": "BurningMod",
-      "mod_id": "BurningMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Burning_Mod_v0.2.0_8b6215c8.zip",
-      "bundle_sha256": "8b6215c8d198679443f84bfc2de632a0451b0e49286f99c879f1cbde88119329"
-    },
-    {
-      "name": "Calypso'sHappyHour / 卡里普索的欢乐时光",
-      "version": "v1.1.3",
-      "source": null,
-      "hash": "e69f6612d2c349a9d4d8eb42b23772b03d95b8d9bae7defe6a1317ea3c8bd3e1",
-      "files": [
-        "CalypsosHappyHour\\CalypsosHappyHour.dll",
-        "CalypsosHappyHour\\CalypsosHappyHour.json",
-        "CalypsosHappyHour\\CalypsosHappyHour.pck",
-        "CalypsosHappyHour\\card_weights.cfg"
-      ],
-      "folder_name": "CalypsosHappyHour",
-      "mod_id": "CalypsosHappyHour",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Calypso.sHappyHour___._v1.1.3_f038f926.zip",
-      "bundle_sha256": "f038f9268e8731dbc4bbb67b5cd05d35371272ce69b2289e21f4b91c63e77729"
-    },
-    {
-      "name": "DevMode",
-      "version": "0.11.0",
-      "source": null,
-      "hash": "56463456f8b78aee756bc3103408785073a20f6ba82835eb70108e9f4366aa5a",
-      "files": [
-        "DevMode\\DevMode.dll",
-        "DevMode\\mod_image.png",
-        "DevMode\\mod_image.png.import",
-        "DevMode\\mod_manifest.json",
-        "DevMode\\editor\\editor\\app.js",
-        "DevMode\\editor\\editor\\blocks.js",
-        "DevMode\\editor\\editor\\generators.js",
-        "DevMode\\editor\\editor\\i18n.js",
-        "DevMode\\editor\\editor\\index.html"
-      ],
-      "folder_name": "DevMode",
-      "mod_id": "DevMode",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/DevMode_v0.11.0_64244665.zip",
-      "bundle_sha256": "64244665c4536aa5c44cf9218f62238c3ac4a483415bd0e3ca54acd54793d3a3"
-    },
-    {
-      "name": "Extra Relics",
-      "version": "v0.3.1",
-      "source": null,
-      "hash": "bcc6b47a65dedb9e57258a67148d5da06c8bd222a3d6bb1b9619edb9085e7d5e",
-      "files": [
-        "ExtraRelics\\ExtraRelics.dll",
-        "ExtraRelics\\ExtraRelics.json",
-        "ExtraRelics\\ExtraRelics.pck"
-      ],
-      "folder_name": "ExtraRelics",
-      "mod_id": "ExtraRelics",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Extra_Relics_v0.3.1_5d896743.zip",
-      "bundle_sha256": "5d89674391252312781d8462bed5be3e78b4604f21f216410e123244247e9222"
-    },
-    {
-      "name": "Fog_of_war",
-      "version": "v1.0.1",
-      "source": null,
-      "hash": "1e49159440d47318ff9d46f6e70fe88ebf5d5bd65bd6d0455438f7060ba37246",
-      "files": [
-        "Fog_of_war\\Fog_of_war.dll",
-        "Fog_of_war\\Fog_of_war.json",
-        "Fog_of_war\\Fog_of_war.pck"
-      ],
-      "folder_name": "Fog_of_war",
-      "mod_id": "Fog_of_war",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Fog_of_war_v1.0.1_726fbfc2.zip",
-      "bundle_sha256": "726fbfc202fe4db483dd9ca3f9a098001a6b3b1543b7f1cab8180704708d133a"
-    },
-    {
-      "name": "NecrobinderExpand 骨妹拓展",
-      "version": "v0.0.1",
-      "source": null,
-      "hash": "900fe0d061fbeb93166304a4de37d7264c74312408da568c750ed2ecfacda2a7",
-      "files": [
-        "NecrobinderExpand\\NecrobinderExpand.dll",
-        "NecrobinderExpand\\NecrobinderExpand.json",
-        "NecrobinderExpand\\NecrobinderExpand.pck"
-      ],
-      "folder_name": "NecrobinderExpand",
-      "mod_id": "NecrobinderExpand",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/NecrobinderExpand_._v0.0.1_f6fbf266.zip",
-      "bundle_sha256": "f6fbf2664e748c4d5f2903e9c47ff2fa945c5f635fd59cb5aae13b060923dc9f"
-    },
-    {
-      "name": "New Game +",
-      "version": "v1.110",
-      "source": null,
-      "hash": "c030f223413538afad2a36e91452caab20bc3a22505c468d3c405c5f8540e5d7",
-      "files": [
-        "NewGamePlus\\NewGamePlus.dll",
-        "NewGamePlus\\NewGamePlus.json",
-        "NewGamePlus\\sentry-reports.log"
-      ],
-      "folder_name": "NewGamePlus",
-      "mod_id": "NewGamePlus",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/New_Game___v1.110_4e8b3340.zip",
-      "bundle_sha256": "4e8b3340ef5d06bdf96cd62e3084bce9492f6bb4abed28aa2da3e736e5a91665"
-    },
-    {
-      "name": "Reclimax —— 重返巅峰",
-      "version": "1.1.1",
-      "source": null,
-      "hash": "285ce940c81097c944f7da04468d0c8f24ca70096c0e24e2bbed87a4467991e5",
-      "files": [
-        "Reclimax\\manifest.json",
-        "Reclimax\\Reclimax.dll",
-        "Reclimax\\Reclimax.pck"
-      ],
-      "folder_name": "Reclimax",
-      "mod_id": "Reclimax",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Reclimax_._._v1.1.1_59b6da47.zip",
-      "bundle_sha256": "59b6da47dd733aac36561ed7d51f67597f5530f62ee4d5125536c5411bc2576e"
-    },
-    {
-      "name": "Relics Reminder",
-      "version": "0.1.0",
-      "source": null,
-      "hash": "68d5224995ef4c6ae954aab918185188c0dd2d10f6a89ce85a08dfb37fd3d1e9",
-      "files": [
-        "RelicsReminder_dll\\RelicsReminder.dll",
-        "RelicsReminder_dll\\RelicsReminder.json",
-        "RelicsReminder_dll\\RelicsReminder_init_marker_local.txt"
-      ],
-      "folder_name": "RelicsReminder_dll",
-      "mod_id": "RelicsReminder",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Relics_Reminder_v0.1.0_071810a9.zip",
-      "bundle_sha256": "071810a9ce68644117a47311a508c26dc81bbe21ffcdde4f05f3b7032bfc6b45"
-    },
-    {
-      "name": "Rock Paper Scissors",
-      "version": "0.0.1",
-      "source": null,
-      "hash": "d4d118fc439423c368492d7e3a4de21286063d8dd834dba03498682db398e87c",
-      "files": [
-        "RockPaperScissors\\rock_paper_scissors.json",
-        "RockPaperScissors\\RockPaperScissors.dll",
-        "RockPaperScissors\\rock-paper-sicors.pck"
-      ],
-      "folder_name": "RockPaperScissors",
-      "mod_id": "RockPaperScissors",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Rock_Paper_Scissors_v0.0.1_d12289e2.zip",
-      "bundle_sha256": "d12289e26e1211463608abeea1d27e8c8c0843def8eb54a2c8069081cf702fbd"
-    },
-    {
-      "name": "Unified Save Path",
-      "version": "1.0.0",
-      "source": null,
-      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
-      "files": [
-        "UnifiedSavePath\\UnifiedSavePath.dll",
-        "UnifiedSavePath\\UnifiedSavePath.pck",
-        "UnifiedSavePath\\UnifiedSavePath.json"
-      ],
-      "folder_name": "UnifiedSavePath",
-      "mod_id": "UnifiedSavePath",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_09133c30.zip",
-      "bundle_sha256": "09133c300c2ca05bfa7d9a2153d49d23bddcc6a714842c2ecf139d09ae58f7d4"
-    },
-    {
-      "name": "更多联机卡(MoreMultiplayerCard)",
-      "version": "1.05.3",
-      "source": null,
-      "hash": "a649bb6172acbe0cb0af86047119f1731fa8958bb76aaeb7c7b392809cb767cd",
-      "files": [
-        "MoreMultiplayerCard\\MoreMultiplayerCard.dll",
-        "MoreMultiplayerCard\\MoreMultiplayerCard.json",
-        "MoreMultiplayerCard\\MoreMultiplayerCard.pck"
-      ],
-      "folder_name": "MoreMultiplayerCard",
-      "mod_id": "MoreMultiplayerCard",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/MoreMultiplayerCard._v1.05.3_9bb36d14.zip",
-      "bundle_sha256": "9bb36d14166873ad56e47d404fe0a26ac9da9553a38e9ff4c097a0eb4cbcfb88"
-    },
-    {
-      "name": "皮皮配置: ModConfig",
-      "version": "0.2.3",
-      "source": null,
-      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
-      "files": [
-        "ModConfig\\ModConfig.dll",
-        "ModConfig\\ModConfig.json",
-        "ModConfig\\ModConfig.pck"
-      ],
-      "folder_name": "ModConfig",
-      "mod_id": "ModConfig",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_1413925b.zip",
-      "bundle_sha256": "1413925b6d3db74dfe69b372e42d327383bc3019ed76202b9a0a77770b71921c"
-    },
-    {
-      "name": "荒疫",
-      "version": "0.3.8",
-      "source": null,
-      "hash": "f78117589b07a61563eeb1bb71f0f1b7df79344a43edf53374c58a52afbb5253",
-      "files": [
-        "blight\\blight.dll",
-        "blight\\blight.json",
-        "blight\\localization\\eng\\all.loc"
-      ],
-      "folder_name": "blight",
-      "mod_id": "blight",
-      "enabled": true,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/_v0.3.8_8b373cd8.zip",
-      "bundle_sha256": "8b373cd841d7de61cfe86c9e13e477532b9fdb2301af1f7995361fd2c3d9a0ab"
-    },
-    {
-      "name": "Act 4: Final Ascent",
-      "version": "0.1.2e",
-      "source": null,
-      "hash": "8b47f856cf3ccfc31a2675c229db81d68481e05b4c3b2242cdb81054896e853d",
-      "files": [
-        "Act4FinalAscent\\Act4FinalAscent.dll",
-        "Act4FinalAscent\\Act4FinalAscent.pck",
-        "Act4FinalAscent\\Act4FinalAscent.json"
-      ],
-      "folder_name": "Act4FinalAscent",
-      "mod_id": "Act4FinalAscent",
-      "enabled": false,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_06ff15fb.zip",
-      "bundle_sha256": "06ff15fb3173c6c6316a3642da1cf53d8004d3494c9cdb0a21e1bbf5c7ac1853"
-    },
-    {
-      "name": "Arq's Ancients: Phoenix",
-      "version": "v0.0.1",
-      "source": null,
-      "hash": "1d56b127d586047b24818a980e9e3742162c91f52a6493274f6200f0673a2833",
-      "files": [
-        "ArqPhoenixAncient\\ArqPhoenixAncient.dll",
-        "ArqPhoenixAncient\\ArqPhoenixAncient.json",
-        "ArqPhoenixAncient\\ArqPhoenixAncient.pck"
-      ],
-      "folder_name": "ArqPhoenixAncient",
-      "mod_id": "ArqPhoenixAncient",
-      "enabled": false,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Arq.s_Ancients__Phoenix_v0.0.1_4192a47a.zip",
-      "bundle_sha256": "4192a47aa01bd39ee7ef272e0cd5188dcfc31123f25fa764448d34272a282dc4"
-    },
-    {
-      "name": "HankDonnie",
-      "version": "v0.0.0",
-      "source": null,
-      "hash": "eb3ed7e2b603a4545bacad9273723f2c45892079fd7008d76b1a2cd6021b0079",
-      "files": [
-        "HankDonnie\\HankDonnie.dll",
-        "HankDonnie\\HankDonnie.json",
-        "HankDonnie\\HankDonnie.pck"
-      ],
-      "folder_name": "HankDonnie",
-      "mod_id": "HankDonnie",
-      "enabled": false,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/HankDonnie_v0.0.0_1c4c33f5.zip",
-      "bundle_sha256": "1c4c33f51a990d75af2d499df4e51b94fb6cd97fade3c35f75e4a74a5f81548b"
-    },
-    {
-      "name": "Infinite Acts (Loop)",
+      "name": "[3ab]IroncladGirlAnime",
       "version": "0.2.0",
       "source": null,
-      "hash": "42b4437f9211b7fe8ae26ba2533f8a6717986ba5c4e44a69190fad7a1ce76b73",
+      "hash": "e14f884388593d94d59dd2a56dcafcc823cd12736f463943803d2edb0c094139",
       "files": [
-        "InfiniteActsMod\\InfiniteActsMod.dll",
-        "InfiniteActsMod\\InfiniteActsMod.json",
-        "InfiniteActsMod\\InfiniteActsMod_Config.json",
-        "InfiniteActsMod\\InfiniteActsMod_PauseMenu.json",
-        "InfiniteActsMod\\InfiniteActsMod_Loaded.txt",
-        "InfiniteActsMod\\InfiniteActsMod_PluginStatic.txt",
-        "InfiniteActsMod\\InfiniteActsMod_HarmonyBootstrap.txt"
+        "3abironcladanime\\3abironcladanime.json",
+        "3abironcladanime\\3abironcladanime.pck"
       ],
-      "folder_name": "InfiniteActsMod",
-      "mod_id": "InfiniteActsMod",
-      "enabled": false,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Infinite_Acts_.Loop._v0.2.0_42a5401d.zip",
-      "bundle_sha256": "42a5401d9bb3d3d408462c1f30dd47e91419b024df80f2cfa2b92c975a0c7bbf"
-    },
-    {
-      "name": "Painter",
-      "version": "0.32",
-      "source": null,
-      "hash": "bd54c0e95f2dc3ae1e3a504f4cbd91f1aa9cfd7921449721f07dd7b63c1c75f8",
-      "files": [
-        "Painter\\Painter.dll",
-        "Painter\\Painter.json",
-        "Painter\\Painter.pck"
-      ],
-      "folder_name": "Painter",
-      "mod_id": "Painter",
-      "enabled": false,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Painter_v0.32_f7abf248.zip",
-      "bundle_sha256": "f7abf2485997a2be0169e2d944fabc7f31e5a440233dd97d631f77d599b48dc1"
-    },
-    {
-      "name": "Quick Reload",
-      "version": "1.0.3",
-      "source": null,
-      "hash": "2508c71ef19d14cf8995f68c6c6b5ea45db93d69c4fd7b12c408e87648012a50",
-      "files": [
-        "QuickReload\\QuickReload.dll",
-        "QuickReload\\QuickReload.pck",
-        "QuickReload\\QuickReload.json"
-      ],
-      "folder_name": "QuickReload",
-      "mod_id": "QuickReload",
-      "enabled": false,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Quick_Reload_v1.0.3_60ceac6c.zip",
-      "bundle_sha256": "60ceac6c07bb42d9122d633873deeca7a6a9a26a6eed4de91ed53b461c1c1157"
-    },
-    {
-      "name": "RitsuLib (STS2 0.103.2 compat)",
-      "version": "0.3.6",
-      "source": null,
-      "hash": "e81d4aaa82b0a718aeb546d97d1f7d9be5bd22158283e0825cb58c462d424c4d",
-      "files": [
-        "STS2-RitsuLib\\mod_manifest.json",
-        "STS2-RitsuLib\\STS2-RitsuLib.dll",
-        "STS2-RitsuLib\\STS2-RitsuLib.runtimeconfig.json"
-      ],
-      "folder_name": "STS2-RitsuLib",
-      "mod_id": "STS2-RitsuLib",
-      "enabled": false,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.6_e22a5368.zip",
-      "bundle_sha256": "e22a5368aaf945567f82d30380f790c87f4cfe1cd8672323bc5bcec6ab7d87e7"
-    },
-    {
-      "name": "ScavengerLord",
-      "version": "v0.0.0",
-      "source": null,
-      "hash": "1960f98df8f664cec6b04e3229846c6ae69c9430a0bf39e0af8620e0e48566ec",
-      "files": [
-        "ScavengerLord\\ScavengerLord.pck",
-        "ScavengerLord\\ScavengerLord.dll",
-        "ScavengerLord\\ScavengerLord.json"
-      ],
-      "folder_name": "ScavengerLord",
-      "mod_id": "ScavengerLord",
-      "enabled": false,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/ScavengerLord_v0.0.0_7ac155ac.zip",
-      "bundle_sha256": "7ac155ac3029db6b4bd24bb5280d29240c3f618a7729605fbb775dc0a67f36be"
-    },
-    {
-      "name": "SealsRegalSneckoEye",
-      "version": "v1.0.1",
-      "source": null,
-      "hash": "e002a9641f317993785f56da4ea4f4d97d3dca9153365e199bcfed99dc76c90d",
-      "files": [
-        "SealsRegalSneckoEye\\SealsRegalSneckoEye.dll",
-        "SealsRegalSneckoEye\\SealsRegalSneckoEye.json",
-        "SealsRegalSneckoEye\\SealsRegalSneckoEye.pck"
-      ],
-      "folder_name": "SealsRegalSneckoEye",
-      "mod_id": "SealsRegalSneckoEye",
-      "enabled": false,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/SealsRegalSneckoEye_v1.0.1_0f736755.zip",
-      "bundle_sha256": "0f7367558a3178f15095a529e5ce57799131dd0530e149e8aa678d36d5ad996d"
-    },
-    {
-      "name": "SnakeKing",
-      "version": "v0.0.0",
-      "source": null,
-      "hash": "7f8adf37aa5e90a37138c31a07a4a9273bfbd6e37aba0ac8ac946b4fc12f18f8",
-      "files": [
-        "SnakeKing\\SnakeKing.dll",
-        "SnakeKing\\SnakeKing.json",
-        "SnakeKing\\SnakeKing.pck"
-      ],
-      "folder_name": "SnakeKing",
-      "mod_id": "SnakeKing",
-      "enabled": false,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/SnakeKing_v0.0.0_f2ea0435.zip",
-      "bundle_sha256": "f2ea0435abfc64a939cbbdee6d984344ef74a5423135699548efab66d3a64171"
-    },
-    {
-      "name": "Test Subject Enrage Rebalance Mod",
-      "version": "0.0.1",
-      "source": null,
-      "hash": "f17e331978ddbf7d9e3970a76c98de81ddfc910ba8171d9bca1d77e806c2e9c6",
-      "files": [
-        "TestSubjectEnrageBalance\\TestSubjectEnrageBalance.dll",
-        "TestSubjectEnrageBalance\\TestSubjectEnrageBalance.json",
-        "TestSubjectEnrageBalance\\TestSubjectEnrageBalance.pck"
-      ],
-      "folder_name": "TestSubjectEnrageBalance",
-      "mod_id": "TestSubjectEnrageBalance",
-      "enabled": false,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/Test_Subject_Enrage_Rebalance_Mod_v0.0.1_797bd90d.zip",
-      "bundle_sha256": "797bd90d93298c9fb474da7806d9b4cbb4d72e4fd0afb07f6c5cc48261a956ea"
-    },
-    {
-      "name": "The Hermit",
-      "version": "v1.5.0",
-      "source": null,
-      "hash": "1a48f6ff70fc0a9cfb3daaa6f3314e3f7628f1e5d156bf9764747f58ed0dfb31",
-      "files": [
-        "HermitMod\\HermitMod.dll",
-        "HermitMod\\HermitMod.json",
-        "HermitMod\\HermitMod.pck"
-      ],
-      "folder_name": "HermitMod",
-      "mod_id": "HermitMod",
-      "enabled": false,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/The_Hermit_v1.5.0_549f616b.zip",
-      "bundle_sha256": "549f616beb418605148285926ae6d6f47a5c1ae75be065f489b9da9c3b860c59"
-    },
-    {
-      "name": "TimeEaterTest",
-      "version": "v0.0.0",
-      "source": null,
-      "hash": "a68f8b81c4350a7b7dc54edeac4b49f2cf392dffab175b20b5b25086120d7760",
-      "files": [
-        "TimeEaterTest\\TimeEaterTest.dll",
-        "TimeEaterTest\\TimeEaterTest.json",
-        "TimeEaterTest\\TimeEaterTest.pck"
-      ],
-      "folder_name": "TimeEaterTest",
-      "mod_id": "TimeEaterTest",
-      "enabled": false,
-      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/TimeEaterTest_v0.0.0_338b55c5.zip",
-      "bundle_sha256": "338b55c543609d519a10e2bb9b126fce6874f65eddd69ed4d2ea4b8450c9bfdc"
+      "folder_name": "3abironcladanime",
+      "mod_id": "3abironcladanime",
+      "enabled": true,
+      "bundle_url": "https://github.com/xavlt/sts2mm-profiles/releases/download/bundles/3ab.IroncladGirlAnime_v0.2.0_f11641fb.zip",
+      "bundle_sha256": "f11641fb2d34f48ae24a71aeebd60d4fa4ff51519eeb73fecc6e915d3bac04cb"
     }
   ],
   "created_at": "2026-05-29T18:26:54.720921Z",
-  "updated_at": "2026-06-04T12:30:00.562437100Z",
+  "updated_at": "2026-06-04T21:47:53.709339700Z",
   "public": false
 }
